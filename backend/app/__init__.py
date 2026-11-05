@@ -1,0 +1,1 @@
+"""SubastAgro backend application."""
